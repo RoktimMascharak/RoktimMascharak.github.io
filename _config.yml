@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DP_Cite_2"
   name             : "Roktim Mascharak"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I am a third year PhD student in Birational Geometry at LSGNT supervised by Dr. Calum Spicer and Dr. Paolo Cascini. My interest lies in Birational Geometry and the Minimal Model Program. I use techniques from Birational geometry to study differential equations on algebraic varieties (Formally called Foliations). Except pure mathematics I am enthusiastic about AI for Math. "
+  bio              : "PhD Student in LSGNT."
   location         : "London"
         
   uri              : # URL
