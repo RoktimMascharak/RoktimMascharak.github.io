@@ -1,5 +1,4 @@
 ---
-{% include base_path %}
 permalink: /
 title: "Home Page of Roktim Mascharak"
 author_profile: true
