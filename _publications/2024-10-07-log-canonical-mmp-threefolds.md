@@ -1,6 +1,5 @@
 
 ---
-{% include base_path %}
 title: "Log Canonical Minimal Model Program for corank one foliations on Threefolds"
 collection: publications
 permalink: /publication/2024-10-07-log-canonical-mmp-threefolds
