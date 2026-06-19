@@ -11,4 +11,3 @@ citation: "Chaudhuri, P., & Mascharak, R. (2024). 'Log Canonical Minimal Model P
 ---
 
 
-[Read the full paper on arXiv](https://arxiv.org/abs/2410.05178)
