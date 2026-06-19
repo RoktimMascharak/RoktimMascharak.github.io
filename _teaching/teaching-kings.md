@@ -1,9 +1,9 @@
 ---
-title: "Teaching at Imperial College London"
+title: "Teaching at King's College London"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-kings
-venue: "Imperial College London, Department of Mathematics"
+venue: "King's College London, Department of Mathematics"
 location: "London, UK"
 ---
 
