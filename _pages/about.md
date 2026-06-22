@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third year PhD student in Birational Geometry at the London School of Geometry and Number Theory, supervised by Dr. Calum Spicer and Dr. Paolo Cascini. My interest lies in Birational Geometry and the Minimal Model Program. I use techniques from Birational Geometry to study differential equations on algebraic varieties (Formally known as Foliations). Apart from pure mathematics, I am enthusiastic about emerging field of AI for Mathematics.
+Hi! I’m a third-year PhD student at the London School of Geometry and Number Theory, where I work in birational geometry under the supervision of Dr. Calum Spicer (KCL) and Dr. Paolo Cascini (Imperial). My research focuses on birational geometry and the Minimal Model Program, with a particular interest in applying geometric techniques to the study of differential equations on algebraic varieties, known formally as foliations. Beyond pure mathematics, I am also interested in the emerging area of AI for mathematics.
 
 
 Here is a copy of my [CV](\files\cv_roktim_mascharak.pdf).
