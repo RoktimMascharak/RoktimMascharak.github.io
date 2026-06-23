@@ -350,4 +350,3 @@ compress_html:
   ignore:
     envs: development
 # Paste your verification code here
-google_site_verification: "<meta name="google-site-verification" content="83GrynUjJcIM-KqSgfmBnD7x8Cz0Wpa_Gssp9Gf80E4" />"
